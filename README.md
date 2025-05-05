@@ -2,6 +2,12 @@
 
 A comprehensive unit converter application that supports length, weight, temperature, and currency conversions with real-time exchange rates.
 
+## 🖼️ Screenshot
+
+### Main Screen
+
+![Main Screen](main.png)
+
 ## Features
 
 - Length conversion (meters, kilometers, feet, inches, etc.)
